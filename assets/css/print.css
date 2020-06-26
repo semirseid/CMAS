@@ -1,0 +1,12 @@
+@media print {
+    .sidbar{
+        display: none;
+    }
+    footer,header{
+        display: none;
+    }
+    .noprint{
+        display: none;
+    }
+
+}
